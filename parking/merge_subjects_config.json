@@ -1,0 +1,4 @@
+{
+  "dataModel.Parking": "https://raw.githubusercontent.com/smart-data-models/dataModel.Parking/master/context.jsonld",
+  "dataModel.Device": "https://raw.githubusercontent.com/smart-data-models/dataModel.Device/master/context.jsonld"
+}
